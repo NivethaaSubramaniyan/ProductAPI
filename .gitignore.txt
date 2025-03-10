@@ -7,3 +7,9 @@ obj/
 *.pdb
 appsettings.json
 appsettings.Development.json
+# Ignore VS-specific files
+.vs/
+.vscode/
+
+# Ignore NuGet packages (if applicable)
+packages/

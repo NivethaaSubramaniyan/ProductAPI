@@ -1,0 +1,9 @@
+# .NET-specific ignores
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+*.pdb
+appsettings.json
+appsettings.Development.json
